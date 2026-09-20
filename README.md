@@ -2,7 +2,7 @@
 A V-Dipole antenna designed for 137 MHz satellite signals, paired with an SDR to process them.
 
 ## Hardware
-* Two copper rods, 54.5 cm long, 3mm outer diameter, 0.25mm wall thickness
+* Two copper rods, 54 cm long, 3mm outer diameter, 0.25mm wall thickness
 * NooElec NESDR Smartee V2 (RTL-SDR)
 * NooElec SAWbird+ NOAA (band-pass filter + LNA)
 * NooElec Flamingo+ FM Notch Filter
@@ -24,7 +24,7 @@ A V-Dipole antenna designed for 137 MHz satellite signals, paired with an SDR to
 
 ## Design
 ### Antenna elements
-* The copper rods are 54.5 cm long, which is approximately a quarter-wavelength at 137 MHZ.
+* The copper rods are 54 cm long, which is approximately a quarter-wavelength at 137 MHz.
 * The rods are arranged at 120° to form the V-dipole geometry, providing a broad radiation pattern suitable for receiving satellite signals.
 * The rods are soldered to the panel mount connector with 2-inch stranded wire to allow for frequent transport and reduce mechanical stress on the solder joints.
 ### RF Chain
