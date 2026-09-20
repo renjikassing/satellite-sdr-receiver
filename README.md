@@ -2,7 +2,7 @@
 A V-Dipole antenna designed for 137 MHz satellite signals, paired with an SDR to process them.
 
 ## Hardware
-* Two copper rods, 54 cm long, 3mm outer diameter, 0.25mm wall thickness
+* Two copper rods, 54 cm long, 3 mm outer diameter, 0.25 mm wall thickness
 * NooElec NESDR Smartee V2 (RTL-SDR)
 * NooElec SAWbird+ NOAA (band-pass filter + LNA)
 * NooElec Flamingo+ FM Notch Filter
